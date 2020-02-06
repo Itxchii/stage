@@ -1,0 +1,86 @@
+﻿body {
+
+    background-image:url("https://images8.alphacoders.com/476/thumb-1920-476792.jpg");
+     background-repeat: no-repeat;
+      background-attachment: fixed;
+	  	    background-size:cover;
+	}
+#menu li{
+    display: inline-block ;
+}
+#menu{
+	
+	background-image:url("https://media.giphy.com/media/cmegx6SssTKmEFEcwj/giphy.gif"); 
+	width:100%;
+	margin: 0px;
+	min-height:25px;
+	padding:0px;
+	background-repeat: repeat;
+      background-attachment: fixed;
+	  	    background-size:cover;
+	
+	
+}
+
+html,body{
+margin: 0px;
+	
+	padding:0px;
+}
+#menu a {
+    display: block ;
+    width: 250px ;
+	height:-90px;
+font-size:20px; 
+    padding: 5px 0 ; /* Ajout de marges internes */
+    text-align: center ; /* Centrage du texte à l'intérieur des boutons */
+    border: 1px solid #EC9910  ; /* Ajout d'une bordure de couleur aux boutons */
+    background-image:url("https://media.giphy.com/media/cmegx6SssTKmEFEcwj/giphy.gif"); /* Ajout d'une couleur d'arrière-plan */
+    color: white ; /* Modification de la couleur du texte */
+    text-decoration: none ; /* Suppression du soulignement des liens */
+    margin: 1px ; /* Espacements des boutons */
+    border-radius: 0px; /* Ajout d'arrondis pour les boutons */
+}
+#menu a:hover {
+    background-color: #FFE843 ;
+	background-image:linear-gradient(to bottom,#FFC34A 10%, #B00884 100%);
+    
+}
+
+	
+	
+	title
+
+{
+text-align: center;
+margin-top: 0px;
+}
+	h1
+{
+	color:silver ;
+	font-size:30;
+}	
+	h2
+
+{
+	display:inline;
+	
+} 
+.Logo2 
+{ 
+position: absolute; 
+top: 840px; 
+left: 1700px; 
+}
+.Logo 
+{ 
+position: absolute; 
+top: 755px; 
+left: 1760px; 
+}
+#video
+top:1900;
+margi:1600;
+
+
+</style> 
